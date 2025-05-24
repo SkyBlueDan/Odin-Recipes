@@ -1,1 +1,1 @@
-# Odin-Recipes
+# Odin-Recipes - This is my first Odin Project, i am tasked with producing a simple food recipie website with sub directories. I should use links that link to the sub direcotries and links back to home page. I sould also think about using ordered lists and unordred list for the ingredients. I should think about the security when using links.
